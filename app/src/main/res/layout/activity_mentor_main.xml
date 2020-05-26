@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mentor_main">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/greeting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></TextView>
+
+        <Button
+            android:id="@+id/marks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Update Marks"></Button>
+
+        <Button
+            android:id="@+id/attendance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Attendance"></Button>
+
+    <Button
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Students List"></Button>
+    <Button
+        android:id="@+id/feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Feedback"></Button>
+
+
+    <Button
+        android:id="@+id/chatblo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chat with your Mentee "></Button>
+
+
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

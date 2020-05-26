@@ -1,0 +1,2 @@
+rootProject.name='Mentor App'
+include ':app'
