@@ -1,0 +1,96 @@
+{
+  "Mentor" : {
+    "aa" : {
+      "Email" : "aa@a.com",
+      "Name" : "aa"
+    },
+    "ppp" : {
+      "Email" : "ppp@p.com",
+      "Name" : "ppp"
+    },
+    "uu" : {
+      "Email" : "uu@u.com",
+      "Name" : "uu"
+    }
+  },
+  "Students" : {
+    "312217205021" : {
+      "Email" : "devanathanng17021@it.ssn.edu.in",
+      "Name" : "Devanathan",
+      "UT1" : {
+        "Sub1" : "88",
+        "Sub2" : "99",
+        "Sub3" : "99",
+        "Sub4" : "88",
+        "Sub5" : "78",
+        "Sub6" : "77"
+      },
+      "UT2" : {
+        "Attendance" : "65",
+        "Feedback" : "Pee performance",
+        "Sub1" : "100",
+        "Sub2" : "100",
+        "Sub3" : "100",
+        "Sub4" : "100",
+        "Sub5" : "100",
+        "Sub6" : "100"
+      },
+      "UT3" : {
+        "Attendance" : "77",
+        "Feedback" : "can improve",
+        "Sub1" : "88",
+        "Sub2" : "99",
+        "Sub3" : "99",
+        "Sub4" : "88",
+        "Sub5" : "78",
+        "Sub6" : "77"
+      }
+    },
+    "312217205058" : {
+      "Email" : "naveindhawan@gmail.com",
+      "Name" : "Navein",
+      "UT3" : {
+        "Sub1" : "99",
+        "Sub2" : "95",
+        "Sub3" : "66",
+        "Sub4" : "57",
+        "Sub5" : "100",
+        "Sub6" : "98"
+      }
+    },
+    "312217205078" : {
+      "Email" : "navein19052000@gmail.com",
+      "Name" : "Navein",
+      "UT1" : {
+        "Attendance" : "74",
+        "Feedback" : "Amazing",
+        "Sub1" : "87",
+        "Sub2" : "77",
+        "Sub3" : "66",
+        "Sub4" : "88",
+        "Sub5" : "77",
+        "Sub6" : "55"
+      },
+      "UT2" : {
+        "Attendance" : "66",
+        "Feedback" : "Amazingly poor",
+        "Sub1" : "87",
+        "Sub2" : "99",
+        "Sub3" : "88",
+        "Sub4" : "88",
+        "Sub5" : "76",
+        "Sub6" : "53"
+      },
+      "UT3" : {
+        "Attendance" : "66",
+        "Feedback" : "Can Improve",
+        "Sub1" : "100",
+        "Sub2" : "99",
+        "Sub3" : "99",
+        "Sub4" : "99",
+        "Sub5" : "99",
+        "Sub6" : "99"
+      }
+    }
+  }
+}
